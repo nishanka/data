@@ -5,3 +5,5 @@ Created using https://jsonplaceholder.typicode.com/.
 You can create your own using My JSON Server.
 - Go to https://my-json-server.typicode.com/
 - Follow "How to" section steps
+
+By `Nishanka Rupasinghe` On `23rd November 2023`
