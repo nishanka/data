@@ -1,64 +1,14 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "title": "Apple iMac",
-            "imgUrl": "./assets/item1.jpg",
-            "price": 380
-        },
-        {
-            "id": 2,
-            "title": "Sony Camera",
-            "imgUrl": "./assets/item2.jpg",
-            "price": 170
-        },
-        {
-            "id": 3,
-            "title": "Nikon Camera",
-            "imgUrl": "./assets/item3.jpg",
-            "price": 220
-        },
-        {
-            "id": 4,
-            "title": "Harry Potter Book",
-            "imgUrl": "./assets/item4.jpg",
-            "price": 60
-        },
-        {
-            "id": 5,
-            "title": "Apple MacBook",
-            "imgUrl": "./assets/item5.jpg",
-            "price": 35
-        },
-        {
-            "id": 6,
-            "title": "Pencil Holder",
-            "imgUrl": "./assets/item6.jpg",
-            "price": 23
-        },
-        {
-            "id": 7,
-            "title": "Book With 3 Pens",
-            "imgUrl": "./assets/item7.jpg",
-            "price": 16
-        },
-        {
-            "id": 8,
-            "title": "Wooden Cup, Note Book, Pen",
-            "imgUrl": "./assets/item8.jpg",
-            "price": 80
-        },
-        {
-            "id": 9,
-            "title": "Sony Headset",
-            "imgUrl": "./assets/item9.jpg",
-            "price": 70
-        },
-        {
-            "id": 10,
-            "title": "Living Room Set",
-            "imgUrl": "./assets/item10.jpg",
-            "price": 105
-        }
-    ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
