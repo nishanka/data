@@ -97,5 +97,42 @@
       "imgUrl": "https://github.com/nishanka/data/tree/master/assets/item10.jpg",
       "price": 105
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age": "31",
+      "country": "New Zealand",
+      "designation": "Engineer",
+      "date-of-birth": "1980-11-25",
+      "pets":[
+          { "animal":"dog", "name":"Fido" },
+          { "animal":"cat", "name":"Felix" },
+          { "animal":"hamster", "name":"Lightning" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Annmary Phillips",
+      "age": "42",
+      "country": "Sri Lanka",
+      "designation": "Software Tester",
+      "date-of-birth": "1978-02-17",
+      "pets":[
+          { "animal":"dog", "name":"Fido" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Lorex Dgang",
+      "age": "25",
+      "country": "Canada",
+      "designation": "Technical Writer",
+      "date-of-birth": "1996-12-23",
+      "pets":[
+          { "animal":"cat", "name":"Toki" }
+      ]
+    },
   ]
 }
